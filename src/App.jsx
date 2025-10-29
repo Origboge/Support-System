@@ -509,7 +509,7 @@ const Footer = () => (
           {/* <Users className="w-6 h-6 text-purple-400" /> */}
           <span className="text-white font-semibold">The Support System</span>
         </div>
-        <p className="text-gray-400 text-sm text-center">&copy; 2025 The Support System. Built with 💜 by Origboge</p>
+        <p className="text-gray-400 text-sm text-center">&copy; 2025 The Support System.</p> <p>Built with 💜 by Origboge</p>
         <div className="flex gap-4">
           <a href="https://x.com/SSWEB5" className="text-gray-400 hover:text-white transition-colors">
             <XIcon className="w-5 h-5" />
