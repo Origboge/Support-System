@@ -4,7 +4,8 @@ import TweetEmbed from './TweetEmbed';
 const founderTweets = [
   '1932117453959578011', 
   '1983428614419845475', 
-  '1983398389221077213',
+  '1972805330326393073',
+  
 ];
 
 // Custom X (Twitter) Icon Component
